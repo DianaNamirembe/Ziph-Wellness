@@ -1,0 +1,4 @@
+body { background-color: #fdfaf6; font-family: sans-serif; text-align: center; }
+h1 { color: #bc9c6c; letter-spacing: 4px; }
+.services { display: flex; justify-content: center; gap: 20px; padding: 50px; }
+.box { border: 1px solid #bc9c6c; padding: 20px; width: 100px; border-radius: 8px; }
